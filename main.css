@@ -1,0 +1,19 @@
+.inputs {
+    outline: none;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid white;
+    margin-top: -15px;
+    color: white;
+    padding: 10px;
+}
+
+.inputs2 {
+    outline: none;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid black;
+    margin-top: -15px;
+    color: black;
+    padding: 10px;
+}
